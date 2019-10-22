@@ -1,0 +1,16 @@
+Cust_id,Age,Gender,Marital Status,Car Type,Income(?),Own_House (Yes/No)
+1.        ,22,Female,Single,Sedan,200000,No
+2.        ,41,Female,Married,SUV,90000,Yes
+3.        ,54,Male,Married,SUV,65000,Yes
+4.        ,29,Male,Single,SUV,120000,No
+5.        ,33,Male,Married,Sedan,66000,No
+6.        ,42,Female,Married,SUV,250000,Yes
+7.        ,25,Female,Single,Sedan,75000,No
+8.        ,57,Female,Married,Sedan,140000,Yes
+9.        ,44,Male,Married,Sedan,65000,Yes
+10.    ,46,Male,Married,Sedan,80000,Yes
+11.    ,64,Male,Married,SUV,85000,Yes
+12.    ,31,Male,Single,Micro,40000,No
+13.    ,56,Female,Married,SUV,75000,Yes
+14.    ,30,Male,Single,Micro,30000,No
+15.    ,54,Male,Married,Micro,35000,No
